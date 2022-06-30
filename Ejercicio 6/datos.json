@@ -1,0 +1,178 @@
+[
+    {
+        "Provincia": {
+            "Nombre": "Buenos Aires",
+            "Capital": "La Plata",
+            "Canthab": "1200000",
+            "Cantdptos": "52"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Catamarca",
+            "Capital": "San Fernando del Valle de Catamarca",
+            "Canthab": "6546510",
+            "Cantdptos": "12"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Chaco",
+            "Capital": "Resistencia",
+            "Canthab": "3256455",
+            "Cantdptos": "12"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Chubut",
+            "Capital": "Rawson",
+            "Canthab": "6548792",
+            "Cantdptos": "30"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Cordoba",
+            "Capital": "Cordoba",
+            "Canthab": "9035621",
+            "Cantdptos": "12"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Corrientes",
+            "Capital": "Corrientes",
+            "Canthab": "665454",
+            "Cantdptos": "10"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Entre Rios",
+            "Capital": "Parana",
+            "Canthab": "5456441",
+            "Cantdptos": "23"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Formosa",
+            "Capital": "Formosa",
+            "Canthab": "422322",
+            "Cantdptos": "26"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Jujuy",
+            "Capital": "San Salvador de Jujuy",
+            "Canthab": "622023",
+            "Cantdptos": "20"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "La Pampa",
+            "Capital": "Santa Rosa",
+            "Canthab": "13254960",
+            "Cantdptos": "21"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "La Rioja",
+            "Capital": "La Rioja",
+            "Canthab": "5465631",
+            "Cantdptos": "5"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Mendoza",
+            "Capital": "Mendoza",
+            "Canthab": "800000",
+            "Cantdptos": "13"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Misiones",
+            "Capital": "Posadas",
+            "Canthab": "5564510",
+            "Cantdptos": "22"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Neuquen",
+            "Capital": "Neuquen",
+            "Canthab": "4655640",
+            "Cantdptos": "15"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Rio Negro",
+            "Capital": "Rio Gallegos",
+            "Canthab": "5445654",
+            "Cantdptos": "16"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Salta",
+            "Capital": "Salta",
+            "Canthab": "468464",
+            "Cantdptos": "3"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "San Luis",
+            "Capital": "San Luis",
+            "Canthab": "300000",
+            "Cantdptos": "15"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Santa Cruz",
+            "Capital": "Rio Gallegos",
+            "Canthab": "5452265",
+            "Cantdptos": "23"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Santa Fe",
+            "Capital": "Santa Fe",
+            "Canthab": "6878445",
+            "Cantdptos": "52"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Santiago del Estero",
+            "Capital": "Santiago del Estero",
+            "Canthab": "1263950",
+            "Cantdptos": "24"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Tierra del Fuego",
+            "Capital": "Ushuaia",
+            "Canthab": "50000",
+            "Cantdptos": "12"
+        }
+    },
+    {
+        "Provincia": {
+            "Nombre": "Tucuman",
+            "Capital": "San Miguel de Tucuman",
+            "Canthab": "1448188",
+            "Cantdptos": "17"
+        }
+    }
+]

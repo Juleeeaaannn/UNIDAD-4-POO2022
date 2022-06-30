@@ -1,0 +1,65 @@
+{
+    "__class__": "ManejadorPersonas",
+    "personas": [
+        {
+            "__class__": "Persona",
+            "__atributos__": {
+                "apellido": "Rueda",
+                "nombre": "Carla",
+                "telefono": "(264)4777222",
+                "altura": "182",
+                "peso": "65"
+            }
+        },
+        {
+            "__class__": "Persona",
+            "__atributos__": {
+                "apellido": "L\u00f3pez",
+                "nombre": "Carlos",
+                "telefono": "(261)4888111",
+                "altura": 175,
+                "peso": 75
+            }
+        },
+        {
+            "__class__": "Persona",
+            "__atributos__": {
+                "apellido": "P\u00e9rez",
+                "nombre": "Maira",
+                "telefono": "(264)5111222",
+                "altura": 192,
+                "peso": 102
+            }
+        },
+        {
+            "__class__": "Persona",
+            "__atributos__": {
+                "apellido": "Altamirano",
+                "nombre": "Sandra",
+                "telefono": "(263)6478912",
+                "altura": "164",
+                "peso": "74"
+            }
+        },
+        {
+            "__class__": "Persona",
+            "__atributos__": {
+                "apellido": "Artime",
+                "nombre": "Luis",
+                "telefono": "(264)4558699",
+                "altura": 162,
+                "peso": 86
+            }
+        },
+        {
+            "__class__": "Persona",
+            "__atributos__": {
+                "apellido": "Martinez",
+                "nombre": "Laura",
+                "telefono": "(266)4256897",
+                "altura": "155",
+                "peso": "66"
+            }
+        }
+    ]
+}
